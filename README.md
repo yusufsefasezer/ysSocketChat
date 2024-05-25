@@ -2,8 +2,6 @@
 
 Project developed with Modern C++ for learn socket programming, parallel programming and multithreading subjects.
 
-# <center>Description will be add.</center>
-
 ### Features
 - Cross Platform
 - Multi Thread
